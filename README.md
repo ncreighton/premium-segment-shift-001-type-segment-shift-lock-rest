@@ -1,0 +1,2 @@
+# premium-segment-shift-001-type-segment-shift-lock-rest
+Your type segment workflows keep breaking because you're manually locking and restoring shifts across multiple Notion databases. The Type Segment &amp; Shift Lock Restore Craft Hub eliminates that chaos with a unified system that tracks, locks, and restores every segment type and shift variation in one intelligent hub.  This Notion template solves the
